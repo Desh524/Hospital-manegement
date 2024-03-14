@@ -12,10 +12,10 @@
 
 ## Group members
 
-* KEG/IT/2021/F/0014  W.U.N.Wickramasingha (Update part)
-* KEG/IT/2021/F/0146  G.A.G.L Jayawardhana (Save part)
-* KEG/IT/2021/F/0122 W.Nilushika Rasangani (Delete part)
-* KEG/IT/2021/F/0091  M.P.L.S.D Jayawardhana (View,Table search,Mouse click parts)
+* KEG/IT/2021/F/0014  W.U.N.Wickramasingha (Delete part)
+* KEG/IT/2021/F/0046  G.A.G.L Jayawardhana (View part)
+* KEG/IT/2021/F/0122 W.Nilushika Rasangani (Update part)
+* KEG/IT/2021/F/0091  M.P.L.S.D Jayawardhana (Save,Table search,Mouse click parts)
 
 
 # Source Codes
@@ -367,7 +367,8 @@
     }
     }
 
-![Screenshot (180)](https://github.com/Desh524/Hospital-manegement/assets/163328139/ec8732e0-6694-427c-b00e-64a801863113)
+![Screenshot (180)](https://github.com/Desh524/Hospital-manegement/assets/163328139/110312a3-5dd9-4ab0-b013-5126945d7b4a)
+
 
 
 
