@@ -367,9 +367,6 @@
     }
     }
 
-![Screenshot (180)](https://github.com/Desh524/Hospital-manegement/assets/163328139/110312a3-5dd9-4ab0-b013-5126945d7b4a)
-
-
 
 
 ## DbConnection.java
@@ -400,5 +397,6 @@
     }
 
 
+## Screenshot of interface design
 
-
+![Screenshot (180)](https://github.com/Desh524/Hospital-manegement/assets/163328139/110312a3-5dd9-4ab0-b013-5126945d7b4a)
